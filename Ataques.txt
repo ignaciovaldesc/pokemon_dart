@@ -1,0 +1,166 @@
+Nº,Move,Tipo,Base,PP,Acc.,Poder,PR,PB,RR,S,Blanco
+1,Destructor,F,35,100%,40,0,Sí,Sí,No,Elegido
+2,Golpe Kárate,Lucha,F,25,100%,50,0,Sí,Sí,No,Elegido
+3,Doblebofetón,Normal,F,10,85%,15,0,Sí,Sí,No,Elegido
+4,Puño Cometa,Normal,F,15,85%,18,0,Sí,Sí,No,Elegido
+5,Mega Puño,Normal,F,20,85%,80,0,Sí,Sí,No,Elegido
+6,Día de Pago,Normal,F,20,100%,40,0,Sí,Sí,No,Elegido
+7,Puño Fuego,Fuego,F,15,100%,75,0,Sí,No,No,Elegido
+8,Puño Hielo,Hielo,F,15,100%,75,0,Sí,No,No,Elegido
+9,Puño Trueno,Eléctrico,F,15,100%,75,0,Sí,No,No,Elegido
+10,Arañazo,Normal,F,35,100%,40,0,Sí,Sí,No,Elegido
+11,Agarre,Normal,F,30,100%,55,0,Sí,Sí,No,Elegido
+12,Guillotina,Normal,F,5,30%,--,0,Sí,No,No,Elegido
+13,V. Cortante (b),Normal,E,10,100%,80,0,Sí,Sí,No,Rivales
+14,Danza Espada,Normal,O,30,--,--,0,No,No,No,User
+15,Corte,Normal,F,30,95%,50,0,Sí,Sí,No,Elegido
+16,Tornado (a)(a),Volador,E,35,100%,40,0,Sí,Sí,No,Elegido
+17,Ataque Ala (a),Volador,F,35,100%,60,0,Sí,Sí,No,Elegido
+18,Remolino (a),Normal,O,20,--,--,-6,Sí,No,No,Elegido
+19,Vuelo (c),Volador,F,15,95%,90,0,Sí,Sí,No,Elegido
+20,Atadura,Normal,F,20,75%,15,0,Sí,Sí,No,Elegido
+21,Portazo,Normal,F,20,75%,80,0,Sí,Sí,No,Elegido
+22,Látigo Cepa (c),Planta,F,15,100%,35,0,Sí,Sí,No,Elegido
+23,Pisotón,Normal,F,20,100%,65,0,Sí,No,No,Elegido
+24,Doble Patada,Lucha,F,30,100%,30,0,Sí,Sí,No,Elegido
+25,Mega Patada,Normal,F,5,75%,120,0,Sí,Sí,No,Elegido
+26,Patada Salto (c),Lucha,F,25,95%,85,0,Sí,Sí,No,Elegido
+27,Patada Giro,Lucha,F,15,85%,60,0,Sí,Sí,No,Elegido
+28,Ataque Arena,Tierra,O,15,100%,--,0,Sí,No,No,Elegido
+29,Golpe Cabeza,Normal,F,15,100%,70,0,Sí,No,No,Elegido
+30,Cornada,Normal,F,25,100%,65,0,Sí,Sí,No,Elegido
+31,Ataque Furia,Normal,F,20,85%,15,0,Sí,Sí,No,Elegido
+32,Perforador,Normal,F,5,30%,--,0,Sí,No,No,Elegido
+33,Placaje,Normal,F,35,95%,35,0,Sí,Sí,No,Elegido
+34,Golpe Cuerpo,Normal,F,15,100%,85,0,Sí,No,No,Elegido
+35,Repetición,Normal,F,20,85%,15,0,Sí,Sí,No,Elegido
+36,Derribo,Normal,F,20,85%,90,0,Sí,Sí,No,Elegido
+37,Golpe,Normal,F,20,100%,90,0,Sí,Sí,No,Azar
+38,Doble Filo (a)(b),Normal,F,15,100%,120,0,Sí,Sí,No,Elegido
+39,Látigo,Normal,O,30,100%,--,0,Sí,No,No,Rivales
+40,Picotazo Ven (a),Veneno,F,35,100%,15,0,Sí,No,No,Elegido
+41,Dobleataque,Bicho,F,20,100%,25,0,Sí,No,No,Elegido
+42,Pin Misil,Bicho,F,20,85%,14,0,Sí,Sí,No,Elegido
+43,Malicioso,Normal,O,30,100%,--,0,Sí,No,No,Rivales
+44,Mordisco (a),Siniestro,F,25,100%,60,0,No,Sí,No,Elegido
+45,Gruñido,Normal,O,40,100%,--,0,Sí,No,Sí,Rivales
+46,Rugido (a),Normal,O,20,100%,--,-6,Sí,No,Sí,Elegido
+47,Canto,Normal,O,15,55%,--,0,Sí,No,Sí,Elegido
+48,Supersónico,Normal,O,20,55%,--,0,Sí,No,Sí,Elegido
+49,Bomba Sónica (a),Normal,E,20,90%,1,0,Sí,Sí,No,Elegido
+50,Anulación (a)(c),Normal,O,20,80%,--,0,Sí,No,No,Elegido
+51,Ácido (c),Veneno,E,30,100%,40,0,Sí,No,No,Rivales
+52,Ascuas,Fuego,E,25,100%,40,0,Sí,No,No,Elegido
+53,Lanzallamas,Fuego,E,15,100%,95,0,Sí,No,No,Elegido
+54,Neblina,Hielo,O,30,--,--,0,No,No,No,User
+55,Pistola Agua,Agua,E,25,100%,40,0,Sí,Sí,No,Elegido
+56,Hidro Bomba,Agua,E,5,80%,120,0,Sí,Sí,No,Elegido
+57,Surf (c)(c),Agua,E,15,100%,95,0,Sí,Sí,No,Resto
+58,Rayo Hielo,Hielo,E,10,100%,95,0,Sí,No,No,Elegido
+59,Ventisca (a)(c),Hielo,E,5,70%,120,0,Sí,No,No,Rivales
+60,Psico-Rayo,Psíquico,E,20,100%,65,0,Sí,No,No,Elegido
+61,Rayo Burbuja,Agua,E,20,100%,65,0,Sí,No,No,Elegido
+62,Rayo Aurora,Hielo,E,20,100%,65,0,Sí,No,No,Elegido
+63,Hiperrayo,Normal,E,5,90%,150,0,Sí,Sí,No,Elegido
+64,Picotazo,Volador,F,35,100%,35,0,Sí,Sí,No,Elegido
+65,Pico Taladro,Volador,F,20,100%,80,0,Sí,Sí,No,Elegido
+66,Sumisión,Lucha,F,25,80%,80,0,Sí,Sí,No,Elegido
+67,Patada Baja (b),Lucha,F,20,100%,1,0,Sí,Sí,No,Elegido
+68,Contador,Lucha,F,20,100%,1,-5,Sí,No,No,Último
+69,Mov. Sísmico,Lucha,F,20,100%,1,0,Sí,Sí,No,Elegido
+70,Fuerza,normal,F,15,100%,80,0,Sí,Sí,No,Elegido
+71,Absorber (c),Planta,E,25,100%,20,0,Sí,No,No,Elegido
+72,Megaagotar (c),Planta,E,15,100%,40,0,Sí,No,No,Elegido
+73,Drenadoras (a),Planta,O,10,90%,--,0,Sí,No,No,Elegido
+74,Desarrollo,Normal,O,40,--,--,0,No,No,No,User
+75,Hoja Afilada,Planta,F,25,95%,55,0,Sí,Sí,No,Rivales
+76,Rayo Solar,Planta,E,10,100%,120,0,Sí,Sí,No,Elegido
+77,Polvo Veneno,Veneno,O,35,75%,--,0,Sí,No,No,Elegido
+78,Paralizador,Planta,O,30,75%,--,0,Sí,No,No,Elegido
+79,Somnífero,Planta,O,15,75%,--,0,Sí,No,No,Elegido
+80,Danza Pétalo (c),Planta,E,20,100%,90,0,Sí,No,No,Azar
+81,Disp. Demora,Bicho,O,40,95%,--,0,Sí,No,No,Rivales
+82,Furia Dragón,Dragón,E,10,100%,1,0,Sí,Sí,No,Elegido
+83,Giro Fuego (a),Fuego,E,15,70%,15,0,Sí,Sí,No,Elegido
+84,Impactrueno,Eléctrico,E,30,100%,40,0,Sí,No,No,Elegido
+85,Rayo,Eléctrico,E,15,100%,95,0,Sí,No,No,Elegido
+86,Onda Trueno,Eléctrico,O,20,100%,--,0,Sí,No,No,Elegido
+87,Trueno (c),Eléctrico,E,10,70%,120,0,Sí,No,No,Elegido
+88,Lanza Rocas,Roca,F,15,90%,50,0,Sí,Sí,No,Elegido
+89,Terremoto,Tierra,F,10,100%,100,0,Sí,Sí,No,Resto
+90,Fisura,Tierra,F,5,30%,1,0,Sí,Sí,No,Resto
+91,Excavar (c),Tierra,F,10,100%,60,0,Sí,Sí,No,Elegido
+92,Tóxico,Veneno,O,10,85%,--,0,Sí,No,No,Elegido
+93,Confusión,Psíquico,E,25,100%,50,0,Sí,No,No,Elegido
+94,Psíquico (a),Psíquico,E,10,100%,90,0,Sí,No,No,Elegido
+95,Hipnosis (c),Psíquico,O,20,70%,--,0,Sí,No,No,Elegido
+96,Meditación,Psíquico,O,40,--,--,0,No,No,No,User
+97,Agilidad,Psíquico,O,30,--,--,0,No,No,No,User
+98,Ataque Rápido,Normal,F,30,100%,40,+1,Sí,Sí,No,Elegido
+99,Furia,Normal,F,20,100%,20,0,Sí,Sí,No,Elegido
+100,Teletransp.,Psíquico,O,20,--,--,0,No,No,No,User
+101,Tinieblas,Fantasma,E,15,100%,1,0,Sí,Sí,No,Elegido
+102,Mimético (a),Normal,O,10,--,--,0,No,No,No,Elegido
+103,Chirrido,Normal,O,40,85%,--,0,Sí,No,No,Elegido
+104,Doble Equipo,Normal,O,15,--,--,0,No,No,No,User
+105,Recuperación (c),Normal,O,10,--,--,0,No,No,No,User
+106,Fortaleza,Normal,O,30,--,--,0,No,No,No,User
+107,Reducción,Normal,O,20,--,--,0,No,No,No,User
+108,Pantallahumo,Normal,O,20,100%,--,0,Sí,No,No,Elegido
+109,Rayo Confuso,Fantasma,O,10,100%,--,0,Sí,No,No,Elegido
+110,Refugio,Agua,O,40,--,--,0,No,No,No,User
+111,Rizo Defensa (a),Normal,O,40,--,--,0,No,No,No,User
+112,Barrera,Psíquico,O,30,--,--,0,No,No,No,User
+113,Pantalla Luz,Psíquico,O,30,--,--,0,No,No,No,Equipo
+114,Niebla (b),Hielo,O,30,--,--,0,No,No,No,Campo
+115,Reflejo,Psíquico,O,20,--,--,0,No,No,No,Equipo
+116,Foco Energía (a),Normal,O,30,--,--,0,No,No,No,User
+117,Venganza (b),Normal,F,10,--,1,0,No,Sí,No,User
+118,Metrónomo,Normal,O,10,--,--,0,No,No,No,Último
+119,Mov. Espejo,Volador,O,20,--,--,0,No,No,No,Último
+120,Autodestruc.,Normal,F,5,100%,200,0,Sí,Sí,No,Resto
+121,Bomba Huevo,Normal,F,10,75%,100,0,Sí,Sí,No,Elegido
+122,Lengüetazo,Fantasma,F,30,100%,20,0,Sí,No,No,Elegido
+123,Polución,Veneno,E,20,70%,20,0,Sí,No,No,Elegido
+124,Residuos,Veneno,E,20,100%,65,0,Sí,No,No,Elegido
+125,Hueso Palo,Tierra,F,20,85%,65,0,Sí,No,No,Elegido
+126,Llamarada,Fuego,E,5,85%,120,0,Sí,No,No,Elegido
+127,Cascada,Agua,F,15,100%,80,0,Sí,Sí,No,Elegido
+128,Tenaza (a),Agua,F,10,75%,35,0,Sí,Sí,No,Elegido
+129,Rapidez,Normal,E,20,--,60,0,Sí,Sí,No,Rivales
+130,Cabezazo (a),Normal,F,15,100%,100,0,Sí,Sí,No,Elegido
+131,Clavo Cañón,Normal,F,15,100%,20,0,Sí,Sí,No,Elegido
+132,Restricción,Normal,F,35,100%,10,0,Sí,No,No,Elegido
+133,Amnesia,Psíquico,O,20,--,--,0,No,No,No,User
+134,Kinético,Psíquico,O,15,80%,--,0,Sí,No,No,Elegido
+135,Amortiguador,Normal,O,10,--,--,0,Sí,No,No,User
+136,Patada. S. Alta (c),Lucha,F,20,90%,100,0,Sí,Sí,No,Elegido
+137,Deslumbrar,Normal,O,30,75%,--,0,Sí,No,No,Elegido
+138,Comesueños,Psíquico,E,15,100%,100,0,Sí,No,No,Elegido
+139,Gas Venenoso,Veneno,O,40,55%,--,0,Sí,No,No,Elegido
+140,Presa,Normal,F,20,85%,15,0,Sí,Sí,No,Elegido
+141,Chupa Vidas,Bicho,F,15,100%,20,0,Sí,No,No,Elegido
+142,Beso Amoroso,Normal,O,10,75%,--,0,Sí,No,No,Elegido
+143,Ataque Aéreo (b),Volador,F,5,90%,140,0,Sí,Sí,No,Elegido
+144,Transform.,Normal,O,10,--,--,0,No,No,No,Elegido
+145,Burbuja,Agua,E,30,100%,20,0,Sí,No,No,Rivales
+146,Puño-Mareo (a),Normal,F,10,100%,70,0,Sí,No,No,Elegido
+147,Espora,Planta,O,15,100%,--,0,Sí,No,No,Elegido
+148,Destello,Normal,O,20,100%,--,0,Sí,No,No,Elegido
+149,Psico Onda,Psíquico,E,15,80%,1,0,Sí,Sí,No,Elegido
+150,Salpicadura,Normal,O,40,--,--,0,No,No,No,User
+151,Armad. Ácida,Veneno,O,40,--,--,0,No,No,No,User
+152,Martillazo,Agua,F,10,85%,90,0,Sí,Sí,No,Elegido
+153,Explosión,Normal,F,5,100%,250,0,Sí,Sí,No,Resto
+154,Golpes Furia,Normal,F,15,80%,18,0,Sí,Sí,No,Elegido
+155,Huesomerang,Tierra,F,10,90%,50,0,Sí,Sí,No,Elegido
+156,Descanso,Psíquico,O,10,--,--,0,No,No,No,User
+157,Avalancha,Roca,F,10,90%,75,0,Sí,No,No,Rivales
+158,Híp. Colmillo,Normal,F,15,90%,80,0,Sí,No,No,Elegido
+159,Afilar,Normal,O,30,--,--,0,No,No,No,User
+160,Conversión (a),Normal,O,30,--,--,0,No,No,No,User
+161,Tri-Ataque (a),Normal,E,10,100%,80,0,Sí,No,No,Elegido
+162,Superdiente,Normal,F,10,90%,1,0,Sí,No,No,Elegido
+163,Cuchillada,Normal,F,20,100%,70,0,Sí,Sí,No,Elegido
+164,Sustituto,Normal,O,10,--,--,0,No,No,No,User
+165,Combate (c),Normal,F,1,--,50,0,Sí,Sí,No,Elegido

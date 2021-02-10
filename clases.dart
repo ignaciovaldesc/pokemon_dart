@@ -1,0 +1,3 @@
+class Equipo {}
+
+class EquipoRival {}
