@@ -15,8 +15,8 @@ void main() {
       print("Al mismo tiempo la cantidad de pokemones tambien sera al azar");
       print(
           "Podra cambiar el pokemon las veces que desee en batalla mientras aun tenga ps");
-      cargarPokemones();
-
+      var equipoPokemon = cargarPokemones();
+      print("Termine");
       break;
     case 2:
       print("Juego a eleccion");

@@ -4,6 +4,8 @@ import 'dart:async';
 import 'clases.dart';
 
 var numero, nombre, tipo, tipo2, ps, ataque, defensa, ataspe, defesp, velo;
+var listpokemon;
+var pokenumeros;
 List<String> numeros = new List();
 List<String> name = new List();
 List<String> tip = new List();
@@ -61,17 +63,14 @@ void cargarPokemones() {
     print('Ingrese los pokemones deseados de la siguiente lista ingresando su');
     print('numero separados por ' ',');
     print('Ejemplo para escoger Bulbasaur, Charmander y Squirtle: 1,4,7');
-
-    for (int i = 0; i < 152; i++) {
-      print('${numeros[i]} ${name[i]}');
-    }
+    listarTodos();
 
     var listaEquipo = stdin.readLineSync();
-    var pokenumeros = convertirNumero(listaEquipo);
+    pokenumeros = convertirNumero(listaEquipo);
     print("");
     print("");
     print("Los pokemones escogidos son los siguientes:  ");
-    var listpokemon = buscarPokemon(pokenumeros);
+    listpokemon = buscarPokemon(pokenumeros);
     listarPokemon(listpokemon);
   }, onError: (e) {
     print(e.toString());
@@ -103,5 +102,11 @@ List buscarPokemon(List a) {
 void listarPokemon(List a) {
   for (int i = 0; i < a.length; i++) {
     print(a[i]);
+  }
+}
+
+void listarTodos() {
+  for (int i = 0; i < 152; i++) {
+    print('${numeros[i]} ${name[i]}');
   }
 }
